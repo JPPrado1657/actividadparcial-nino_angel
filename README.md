@@ -1,3 +1,6 @@
+# Integrantes
+Jorge Niño Cabal
+José Pablo Prado Ayala
 # Actividad 1
 Ejercicio de actividad que engloba todo lo visto en Android hasta el momento
 
